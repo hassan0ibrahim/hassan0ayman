@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-    linkedIn: https://www.linkedin.com/in/hassan-ayman-b2a527197/
+    linkedIn: https://www.linkedin.com/in/hassan0ayman/
 
 <!---
 Hassan-1212/Hassan-1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
